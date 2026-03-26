@@ -14,7 +14,7 @@ const features = [
 const installationSteps = [
   {
     title: "1. Unduh & Jalankan Installer",
-    desc: "Klik tombol download di atas untuk mendapatkan file .exe. Setelah selesai, buka file tersebut untuk memulai proses instalasi simulasi.",
+    desc: "Klik tombol download di atas untuk mendapatkan file .exe. apabila ada peringatan Danger Setelah selesai, buka file tersebut untuk memulai proses instalasi simulasi.",
     img: "step1.png", 
     isLeft: true
   },
