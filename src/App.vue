@@ -214,14 +214,14 @@ const installationSteps = [
 }
 
 .main-title {
-  font-size: 3.5rem;
+  font-size: 3.2rem;
   font-weight: 900;
   line-height: 1.1;
   letter-spacing: -2px;
   margin-bottom: 1.5rem;
 }
 
-.text-highlight { color: #34d399; }
+.text-highlight { color: #34d399; font-size: 2.8rem; }
 
 .main-subtitle {
   font-size: 1.125rem;
