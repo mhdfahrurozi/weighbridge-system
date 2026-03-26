@@ -3,7 +3,7 @@ import { ref } from 'vue'
 
 const appName = "Weighbridge Sawit System"
 const version = "v1.0.1"
-const downloadLink = "/WeighBridge-Sawit.exe" 
+const downloadLink = "/WeighBridge-System.exe" 
 
 const features = [
   { icon: '🌴', title: 'Akurasi Digital PKS', desc: 'Kalkulasi otomatis Bruto, Tara, Netto, dan Potongan Refraksi standar pabrik.' },
