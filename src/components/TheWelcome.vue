@@ -2,7 +2,7 @@
 import { ref } from 'vue'
 
 const appName = "Weighbridge Sawit Pro"
-const version = "v1.2.0"
+const version = "v1.0.0"
 const downloadLink = "#" // Ganti dengan link file .exe kamu nanti
 
 const features = [
